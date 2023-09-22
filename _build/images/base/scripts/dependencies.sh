@@ -129,6 +129,7 @@ apt-get -y install \
 	patch \
 	patchutils \
 	pciutils \
+	pelican \
 	pkg-config \
 	python3 \
 	python3-dev \
@@ -144,6 +145,7 @@ apt-get -y install \
 	qtchooser \
 	qtmultimedia5-dev \
 	qttools5-dev \
+	rapidjson-dev \
 	ruby \
 	ruby-dev \
 	ruby-irb \
@@ -220,6 +222,7 @@ pip3 install --upgrade --no-cache-dir \
 	numpy \
 	panda \
 	plotly \
+	poetry \
 	psutil \
 	pybind11 \
 	pyyaml \
